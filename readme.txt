@@ -1,31 +1,3 @@
-fixed
-
-
-111
-11
-
-
-
-
-fsadf
-
-
-
-
-
-
-fasdf 
-
-
-
-
-
-发的说法
-
-
-
-
-
-
-
-大师傅
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
